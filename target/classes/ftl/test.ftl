@@ -11,7 +11,7 @@ ${name},你好。${message}
 <#assign linkman="周先生">
 联系人：${linkman}
 
-<#assign info={"mobile":"13301231212",'address':'北京市朝阳区北苑'} >
+<#assign info={"mobile":"13301231212",'address':'北京市昌平区王府街'} >
 电话：${info.mobile}  地址：${info.address}
 
 
